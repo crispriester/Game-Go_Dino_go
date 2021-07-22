@@ -1,7 +1,7 @@
 # Jogo-Go_Dino_go
  Jogo desenvolvido em C# no Unity
 
-    Para jogar, basta clonar o repositório e abrir o arquivo: Go Dino, go!
+    Para jogar, basta clonar o repositório e abrir o arquivo: Go Dino, go!.exe
 
     Irá aparecer uma janela com algumas opções de jogo, clique no "Jogar!" ou "Play!".
 
