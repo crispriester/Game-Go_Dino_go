@@ -1,7 +1,8 @@
 # Jogo-Go_Dino_go
  Jogo desenvolvido em C# no Unity
 
-    Para jogar, basta clonar o repositório e abrir o arquivo: Go Dino, go!.exe
+    Para jogar, basta clonar o repositório em formato zip, depois extrair os arquivos da pasta compactada 
+    e abrir o arquivo: Go Dino, go!.exe (ou simplesmente Go Dino, go!).
 
     Irá aparecer uma janela com algumas opções de jogo, clique no "Jogar!" ou "Play!".
 
@@ -12,6 +13,6 @@
     Se cair na lava, você morrerá imediatamente. Lembre-se: a lava começará a subir depois de 5 segundos 
     em uma velocidade consideravelmente bem rápida.
 
-    Esse jogo possui várias armadilhas, cuidado! 
+    Esse jogo possui várias armadilhas (alguns bugs também), cuidado! 
 
     Boa sorte e não surte!
